@@ -54,7 +54,7 @@ const App: React.FC = () => {
                  <Calculator className="text-white" size={24} />
               </div>
               <div>
-                <h1 className="text-xl md:text-2xl font-bold text-gray-900 leading-tight">Learnabee Tax Health Check SOP</h1>
+                <h1 className="text-xl md:text-2xl font-bold text-gray-900 leading-tight">Influencer Tax Health Check SOP</h1>
                 <p className="text-xs text-red-600 font-bold tracking-wide">网红税务 Influencer Tax</p>
               </div>
             </div>
